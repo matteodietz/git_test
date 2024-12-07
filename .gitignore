@@ -1,5 +1,14 @@
 .DS_Store
 logs/
 main.log
-*.log
 bin/
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.gz
